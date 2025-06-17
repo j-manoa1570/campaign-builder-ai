@@ -3,8 +3,8 @@ import SiteHeader from '../components/SiteHeader';
 import './globals.css';
 
 export const metadata = {
-  title: '40k Campaign Builder',
-  description: 'Build and manage your Warhammer 40k campaigns with gothic style.',
+  title: 'Campaign Builder',
+  description: 'Build and manage your campaigns with gothic style.',
 }
 
 export default function RootLayout({

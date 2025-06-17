@@ -1,4 +1,4 @@
-// File: D:\coding-projects\next-ai\app\record-game\page.tsx
+// File: D:\coding-projects\campaign-builder\app\record-game\page.tsx
 import * as entry from '../../../../app/record-game/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

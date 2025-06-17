@@ -1,4 +1,4 @@
-// File: D:\coding-projects\next-ai\app\create-planet\page.tsx
+// File: D:\coding-projects\campaign-builder\app\create-planet\page.tsx
 import * as entry from '../../../../app/create-planet/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

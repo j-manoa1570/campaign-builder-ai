@@ -8,6 +8,8 @@ module.exports = {
     extend: {
       fontFamily: {
         gothic: ["'UnifrakturCook', 'Cinzel', 'Cormorant Garamond', 'serif'"],
+        quintessential: ["'Quintessential', 'serif'"],
+        lexend: ["'Lexend', 'sans-serif'"]
       },
       colors: {
         gothicBlack: "#1a1a1a",

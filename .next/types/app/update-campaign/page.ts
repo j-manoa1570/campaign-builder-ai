@@ -1,4 +1,4 @@
-// File: D:\coding-projects\next-ai\app\update-campaign\page.tsx
+// File: D:\coding-projects\campaign-builder\app\update-campaign\page.tsx
 import * as entry from '../../../../app/update-campaign/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,8 +1,9 @@
 {
-  "/update-campaign/page": "app/update-campaign/page.js",
-  "/record-game/page": "app/record-game/page.js",
-  "/profile/page": "app/profile/page.js",
-  "/campaign-rules/page": "app/campaign-rules/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/campaign-history/page": "app/campaign-history/page.js",
-  "/campaign-map/page": "app/campaign-map/page.js"
+  "/profile/page": "app/profile/page.js",
+  "/campaign-map/page": "app/campaign-map/page.js",
+  "/create-campaign/page": "app/create-campaign/page.js",
+  "/campaigns/page": "app/campaigns/page.js",
+  "/record-game/page": "app/record-game/page.js"
 }
