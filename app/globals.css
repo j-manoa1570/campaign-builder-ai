@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Cormorant+Garamond:wght@700&family=UnifrakturCook:wght@700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gothicBlack text-gothicIvory font-gothic;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-gothic text-gothicGold;
+  letter-spacing: 0.05em;
+}
+
+.card {
+  @apply bg-gothicGray bg-opacity-80 border-2 border-gothicGold rounded-lg shadow-lg p-8;
+}
+
+.btn-gothic {
+  @apply bg-gothicGold text-gothicBlack font-gothic px-6 py-2 rounded hover:bg-gothicRed hover:text-gothicIvory transition;
+}
